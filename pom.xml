@@ -17,6 +17,7 @@
 
     <modules>
         <module>eureka-server-8761</module>
+        <module>eureka-server-8762</module>
         <module>eureka-client-7777</module>
         <module>producer-7000</module>
         <module>producer-7001</module>
